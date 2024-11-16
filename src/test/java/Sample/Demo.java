@@ -8,6 +8,7 @@ public class Demo {
 	public void Sample()
 	{
 		System.out.println("My name is khurshid");
+		System.out.println("kd");
 	}
 
 }
